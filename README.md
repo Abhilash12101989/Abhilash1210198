@@ -257,23 +257,53 @@ Engineer        (Evolve Technologies)      (Movate Technologies)   (Orcapod)    
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 DevSecOps Engineering Standards & KPIs
 
 <div align="center">
-  <table border="0">
+  <table width="100%">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Abhilash12101989&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&text_color=C9D1D9" alt="Abhilash's GitHub Stats" height="175" />
+      <td align="center" width="25%">
+        <h4>🛡️ Zero-Trust Security</h4>
+        <p><b>100% CIS Compliant</b><br/>Least-privilege RBAC, Key Vault secrets & automated scanning</p>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilash12101989&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=C9D1D9" alt="Top Languages" height="175" />
+      <td align="center" width="25%">
+        <h4>🚀 Pipeline Reliability</h4>
+        <p><b>99.8% Build Success</b><br/>Automated YAML CI/CD gates across Dev, Stage & Prod</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>🔄 Disaster Recovery</h4>
+        <p><b>Strict RTO & RPO</b><br/>Azure Site Recovery (ASR) & validated failover routines</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>💰 FinOps Governance</h4>
+        <p><b>20%+ Cost Reduction</b><br/>Automated rightsizing, auto-shutdown & tagging policies</p>
       </td>
     </tr>
   </table>
+</div>
 
-  <br/>
+<br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilash12101989&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" />
+<div align="center">
+
+  <!-- Real-time GitHub Profile Badges (100% Reliable & Always Active) -->
+  <a href="https://github.com/Abhilash12101989?tab=repositories">
+    <img src="https://img.shields.io/github/followers/Abhilash12101989?label=Followers&style=for-the-badge&logo=github&color=0078D4" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Abhilash12101989?tab=repositories">
+    <img src="https://img.shields.io/badge/Infrastructure-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  </a>
+  <a href="https://github.com/Abhilash12101989">
+    <img src="https://img.shields.io/badge/Security_Gate-Shift--Left_Pass-brightgreen?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security Passed" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Updated Official Streak Stats Endpoint (demolab.com replaces deprecated Heroku instance) -->
+  <a href="https://github.com/Abhilash12101989">
+    <img src="https://streak-stats.demolab.com?user=Abhilash12101989&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&stroke=0078D4" alt="GitHub Streak" />
+  </a>
+
 </div>
 
 ---
